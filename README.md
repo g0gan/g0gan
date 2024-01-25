@@ -21,7 +21,7 @@
 
 🔭 Как сервис push-уведомлений помог нам сделать более посещаемым портал техподдержки. [Habr](https://habr.com/ru/companies/docsvision/articles/335180/)
 
-🔭 Знакомство с Elasticsearch step by step. [Habr](https://habr.com/ru/articles/449304/)
+🔭 Знакомство с Elasticsearch step by step. [Habr](https://habr.com/ru/articles/449304/) | [Источник](https://docsvision.com/info-centr/articles/znakomstvo-s-elasticsearch-step-by-step.html)
 
 
 ### О себе
