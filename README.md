@@ -14,9 +14,13 @@
 ### Статьи и прочие регалии :)
 
 🔭 HackerRank [certificate](https://www.hackerrank.com/certificates/a5376ccf766d)
+
 🔭 Специфика работы техподдержки модульной системы. [Habr](https://habr.com/ru/companies/docsvision/articles/237937/)
+
 🔭 Практика автоматизации измерения показателей быстродействия СЭД. [Habr](https://habr.com/ru/companies/docsvision/articles/246691/)
+
 🔭 Как сервис push-уведомлений помог нам сделать более посещаемым портал техподдержки. [Habr](https://habr.com/ru/companies/docsvision/articles/335180/)
+
 🔭 Знакомство с Elasticsearch step by step. [Habr](https://habr.com/ru/articles/449304/)
 
 
