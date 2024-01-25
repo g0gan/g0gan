@@ -10,6 +10,14 @@
 
 ⚡Docsvision Administrator, более 5х лет опыта у вендора.
 
+Вебинары по темам: 
+
+💬[«Сбор и анализ стандартных логов SQL Server и Docsvision DeadLock»](https://docsvision.com/events/vebinar-sbor-i-analiz-standartnyh-logov-sql-server-i-docsvision-/)
+
+💬[Вебинар «Сбор и анализ логов Docsvision ObjectManagerProfilingи Fusion»](https://docsvision.com/events/vebinar-sbor-i-analiz-logov-docsvision-objectmanagerprofilingi-f/)
+
+💬[Мониторинг и обслуживание СЭД на базе Docsvision](https://docsvision.com/events/monitoring-i-obsluzhivanie-sed-na-baze-docsvision/)
+
 
 ### Статьи и прочие регалии :)
 
