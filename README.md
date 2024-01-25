@@ -43,7 +43,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g0gan)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g0gan)](https://github.com/g0gan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g0gan&layout=compact)](https://github.com/g0gan/github-readme-stats)
 
 
 ### Все остальные ссылки  [Тут](https://campsite.bio/kirilenko)
