@@ -44,6 +44,11 @@
 
 🌱 В свободное время катаюсь на велосипеде, играю в ретроигры, снимаю видео, читаю книги и воспитываю собаку.
 
+### 📫  Все остальные ссылки на меня [тут](https://taplink.cc/kirilenko_alex), или в QR:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/g0gan/g0gan.github.io/main/taplink.png" width="300" title="QR code">
+</p>
+
 
 ### Github  ![](https://komarev.com/ghpvc/?username=g0gan)
 
@@ -54,7 +59,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g0gan&layout=compact)](https://github.com/g0gan/github-readme-stats)
 
 
-### Все остальные ссылки  [Тут](https://taplink.cc/kirilenko_alex)
 
 
 
