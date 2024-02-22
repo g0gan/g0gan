@@ -54,7 +54,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g0gan&layout=compact)](https://github.com/g0gan/github-readme-stats)
 
 
-### Все остальные ссылки  [Тут](https://campsite.bio/kirilenko)
+### Все остальные ссылки  [Тут](https://taplink.cc/kirilenko_alex)
 
 
 
