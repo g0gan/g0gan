@@ -21,7 +21,11 @@
 
 ### Статьи и прочие регалии :)
 
-🔭 HackerRank [certificate](https://www.hackerrank.com/certificates/a5376ccf766d)
+🔭 HackerRank Java Script [certificate](https://www.hackerrank.com/certificates/a5376ccf766d)
+
+🔭 Devops Fundamentals [certificate](https://raw.githubusercontent.com/g0gan/g0gan.github.io/main/linkedin_devops.png)
+  
+🔭 SQL Sololearn [certificate](https://www.sololearn.com/Certificate/CT-AJJ1DAXH/jpg)
 
 🔭 Специфика работы техподдержки модульной системы. [Habr](https://habr.com/ru/companies/docsvision/articles/237937/)
 
