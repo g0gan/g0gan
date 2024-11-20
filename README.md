@@ -57,8 +57,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g0gan)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g0gan&layout=compact)](https://github.com/g0gan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=g0gan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)](https://github.com/g0gan/github-readme-stats)
 
+https://github-badge-inky.vercel.app/
 <!--
 **g0gan/g0gan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
