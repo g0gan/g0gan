@@ -53,7 +53,7 @@
 
 ### Github:   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=g0gan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)](https://github.com/g0gan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=g0gan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)]([https://github.com/g0gan/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
 
 <!--
