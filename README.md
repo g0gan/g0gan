@@ -1,24 +1,6 @@
 
 #  Алексей Кириленко 
 ### Привет!👋 
-
-Могу быть полезен в следующих ролях:
-
-⚡Zendesk Administrator, более 3х лет опыта. 
-
-Поддержка команды поддержки 100+ человек, автоматизация, Rest API, python, Jira/Confluence, project management
-
-⚡Docsvision Administrator, более 5х лет опыта у вендора.
-
-Вебинары по темам: 
-
-💬[«Сбор и анализ стандартных логов SQL Server и Docsvision DeadLock»](https://docsvision.com/events/vebinar-sbor-i-analiz-standartnyh-logov-sql-server-i-docsvision-/)
-
-💬[Вебинар «Сбор и анализ логов Docsvision ObjectManagerProfilingи Fusion»](https://docsvision.com/events/vebinar-sbor-i-analiz-logov-docsvision-objectmanagerprofilingi-f/)
-
-💬[Мониторинг и обслуживание СЭД на базе Docsvision](https://docsvision.com/events/monitoring-i-obsluzhivanie-sed-na-baze-docsvision/)
-
-
 ### Статьи и прочие регалии :)
 
 🔭 HackerRank Java Script [certificate](https://www.hackerrank.com/certificates/a5376ccf766d)
@@ -47,6 +29,8 @@
 🌱 Ценю, если в коллективе меня окружают профессионалы, у которых всегда можно научиться чему то новому
 
 🌱 В свободное время катаюсь на велосипеде, играю в ретроигры, снимаю видео, читаю книги и воспитываю собаку.
+
+🐶 Мои пет проекты [тут](https://github.com/g0gan/my_vercel_projects/tree/main) 
 
 ### 📫  Все остальные ссылки на меня [тут](https://taplink.cc/kirilenko_alex), или в QR:
 <img src="https://raw.githubusercontent.com/g0gan/qr_code/main/qr-code.png" alt="drawing" width="200"/>
